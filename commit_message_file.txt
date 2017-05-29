@@ -1,0 +1,6 @@
+
+fix:
+
+Implement ScrollView in content_detail.xml file
+
+Wrapp the content of the RelativeLayot with a ScrollView in order for the list not to be cut off when the device is rotated in landscape mode.
